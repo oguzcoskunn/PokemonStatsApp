@@ -12,6 +12,7 @@ struct PokeTaskApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .phoneOnlyStackNavigationView()
         }
     }
 }
