@@ -5,9 +5,9 @@ Project developed with;
 - Swift 5
 
 
-# PokemonStat App
+# PokemonStats App
 Shows Pokemon's HP, Attack and Defense stats.
-Tap to screen for change to Pokemon cards!
+Press the card to switch to the next Pokemon card!
 
 
 
