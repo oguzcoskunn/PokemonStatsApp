@@ -10,5 +10,8 @@ Tap to screen for change to Pokemon cards!
 
 ## App Screens :
 
+iPhone:
 ![alt tag1](images/iPhoneScreen.png)
+
+iPad:
 ![alt tag2](images/iPadScreen.png)
