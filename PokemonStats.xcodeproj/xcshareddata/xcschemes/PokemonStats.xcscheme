@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "67555EF928B00EBE00177F82"
-               BuildableName = "PokemonStat.app"
-               BlueprintName = "PokemonStat"
-               ReferencedContainer = "container:PokemonStat.xcodeproj">
+               BuildableName = "PokemonStats.app"
+               BlueprintName = "PokemonStats"
+               ReferencedContainer = "container:PokemonStats.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "67555EF928B00EBE00177F82"
-            BuildableName = "PokemonStat.app"
-            BlueprintName = "PokemonStat"
-            ReferencedContainer = "container:PokemonStat.xcodeproj">
+            BuildableName = "PokemonStats.app"
+            BlueprintName = "PokemonStats"
+            ReferencedContainer = "container:PokemonStats.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "67555EF928B00EBE00177F82"
-            BuildableName = "PokemonStat.app"
-            BlueprintName = "PokemonStat"
-            ReferencedContainer = "container:PokemonStat.xcodeproj">
+            BuildableName = "PokemonStats.app"
+            BlueprintName = "PokemonStats"
+            ReferencedContainer = "container:PokemonStats.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
