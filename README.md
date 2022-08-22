@@ -8,13 +8,13 @@ Project developed with;
 Shows Pokemon's HP, Attack and Defense stats.
 Tap to screen for change to Pokemon cards!
 
-## App Screens :
+## App Screens
 
-iPhone:
+### iPhone Screen:
 
 ![alt tag1](images/iPhoneScreen.png)
 
 
-iPad:
+### iPad Screen:
 
 ![alt tag2](images/iPadScreen.png)
