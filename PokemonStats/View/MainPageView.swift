@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct MainPageView: View {
     @State var firstCardPokemonIndex: Int = 1
     @State var secondCardPokemonIndex: Int = 2
     

@@ -11,7 +11,7 @@ import SwiftUI
 struct PokemonStatsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainPageView()
                 .phoneOnlyStackNavigationView()
         }
     }
