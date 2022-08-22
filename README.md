@@ -6,8 +6,8 @@ Project developed with;
 
 
 # PokemonStats App
-Shows Pokemon's HP, Attack and Defense stats.
-Press the card to switch to the next Pokemon card!
+- Shows Pokemon's HP, Attack and Defense stats.
+- Press the card to switch to the next Pokemon card!
 
 
 
